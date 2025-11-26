@@ -1,0 +1,11 @@
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\bin\Debug\net8.0\Delivery.Utils.deps.json
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\bin\Debug\net8.0\Delivery.Utils.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\bin\Debug\net8.0\Delivery.Utils.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.AssemblyInfoInputs.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.AssemblyInfo.cs
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\refint\Delivery.Utils.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\Delivery.Utils.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Utils\obj\Debug\net8.0\ref\Delivery.Utils.dll

@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Delivery.Services/1.0.0": {
+        "dependencies": {
+          "Delivery.Core": "1.0.0",
+          "Delivery.Factories": "1.0.0",
+          "Delivery.Pricing": "1.0.0",
+          "Delivery.Utils": "1.0.0"
+        },
+        "runtime": {
+          "Delivery.Services.dll": {}
+        }
+      },
+      "Delivery.Core/1.0.0": {
+        "dependencies": {
+          "Delivery.Utils": "1.0.0"
+        },
+        "runtime": {
+          "Delivery.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Delivery.Factories/1.0.0": {
+        "dependencies": {
+          "Delivery.Core": "1.0.0"
+        },
+        "runtime": {
+          "Delivery.Factories.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Delivery.Pricing/1.0.0": {
+        "dependencies": {
+          "Delivery.Core": "1.0.0",
+          "Delivery.Utils": "1.0.0"
+        },
+        "runtime": {
+          "Delivery.Pricing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Delivery.Utils/1.0.0": {
+        "runtime": {
+          "Delivery.Utils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delivery.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delivery.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delivery.Factories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delivery.Pricing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delivery.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

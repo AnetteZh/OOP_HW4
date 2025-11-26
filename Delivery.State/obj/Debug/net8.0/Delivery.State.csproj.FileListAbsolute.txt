@@ -1,0 +1,5 @@
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.State\obj\Debug\net8.0\Delivery.State.csproj.AssemblyReference.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.State\obj\Debug\net8.0\Delivery.State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.State\obj\Debug\net8.0\Delivery.State.AssemblyInfoInputs.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.State\obj\Debug\net8.0\Delivery.State.AssemblyInfo.cs
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.State\obj\Debug\net8.0\Delivery.State.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.csproj.AssemblyReference.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.AssemblyInfoInputs.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.AssemblyInfo.cs
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.csproj.CoreCompileInputs.cache
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Pricing.deps.json
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Pricing.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Pricing.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Core.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Utils.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Core.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\bin\Debug\net8.0\Delivery.Utils.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.22A571F3.Up2Date
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\refint\Delivery.Pricing.dll
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\Delivery.Pricing.pdb
+C:\Users\Анюток\2й_курс\ООП_3й_сем\Delivery.Pricing\obj\Debug\net8.0\ref\Delivery.Pricing.dll
